@@ -1,0 +1,4 @@
+.env
+vectorstore
+rag-llamaindex-youtube-venv
+venv
